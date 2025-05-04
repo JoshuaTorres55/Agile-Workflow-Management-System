@@ -7,3 +7,5 @@ Throughout the project, features were defined using user stories, which ensured 
 The architecture of the software was designed to be modular, which makes it easy to add new features and make changes as the project evolves. By using Agile methodologies, the project was able to remain flexible and adapt to changing requirements. This approach also helped ensure that the software met user expectations by incorporating feedback early and often.
 
 In the future, I plan to add unit tests to ensure the stability of the code and introduce automated deployment using CI/CD pipelines to streamline the release process. These enhancements will further improve the development process and make the software more robust and maintainable.
+
+[Read the Reflection](reflection.md) 
