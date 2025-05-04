@@ -1,10 +1,9 @@
 # SDLC
 
-# How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
-I interpret user needs by analyzing their goals and challenges, then translating them into clear, actionable requirements. Creating user stories ensures the team understands what the user values, allowing us to design and implement features that align with their expectations.
+The SDLC Project was designed to apply Agile methodologies in the development of a user-centered software solution. The goal was to create a system that could be developed iteratively, with frequent user feedback incorporated into each stage of the process. The project was structured around the Agile principles of flexibility, collaboration, and delivering small but valuable features with each iteration.
 
-# How do I approach developing programs? What Agile processes do I hope to incorporate into my future development work?
-I approach program development by breaking down tasks into manageable pieces and prioritizing iterative improvements. In the future, I plan to incorporate Agile processes like sprint planning, daily stand-ups, and regular retrospectives to maintain collaboration and adaptability.
+Throughout the project, features were defined using user stories, which ensured that the development process was closely aligned with the needs of the end-users. The system was developed in sprints, with each sprint focusing on delivering a specific set of features. Version control was utilized throughout the project to ensure that code changes were well-managed and that collaboration between team members was seamless.
 
-# What does it mean to be a good team member in software development?
-Being a good team member means actively contributing, communicating effectively, and supporting others to achieve shared goals. It also involves taking responsibility for your work while fostering a collaborative and respectful team environment.
+The architecture of the software was designed to be modular, which makes it easy to add new features and make changes as the project evolves. By using Agile methodologies, the project was able to remain flexible and adapt to changing requirements. This approach also helped ensure that the software met user expectations by incorporating feedback early and often.
+
+In the future, I plan to add unit tests to ensure the stability of the code and introduce automated deployment using CI/CD pipelines to streamline the release process. These enhancements will further improve the development process and make the software more robust and maintainable.
