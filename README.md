@@ -1,4 +1,4 @@
-# SDLC
+# Agile-Workflow-Management-System
 
 The SDLC Project was designed to apply Agile methodologies in the development of a user-centered software solution. The goal was to create a system that could be developed iteratively, with frequent user feedback incorporated into each stage of the process. The project was structured around the Agile principles of flexibility, collaboration, and delivering small but valuable features with each iteration.
 
@@ -8,4 +8,4 @@ The architecture of the software was designed to be modular, which makes it easy
 
 In the future, I plan to add unit tests to ensure the stability of the code and introduce automated deployment using CI/CD pipelines to streamline the release process. These enhancements will further improve the development process and make the software more robust and maintainable.
 
-[Read the Reflection](reflection.md) 
+
